@@ -1,0 +1,25 @@
+
+{
+    "reviews" : [ {
+            "author": "James",
+            "tag": 1,
+            "stars" : 2,
+            "review": "Not really my cup of tea. It seems like a clever idea, each chapter takes a different class of risk and starts out with a story of Norm, Prudence and Kelvin - and their radically different approaches to life's risks and hazards - then follows with a more detailed discussion of the numbers and the data. Charts and tables abound, but ... the detail just never seemed to get detailed enough for me, and the Norm chronicles themselves felt more like a distraction that kept breaking the flow of the rest of the book. It seemed to take me ages to finish, a d I heaved a big sigh of relief when I closed it for the final time - a real shame as so many other people seem to have really enjoyed it.",
+            "highlight":"Not really my cup of tea."
+        },
+         {
+            "author": "Charlie",
+            "tag": 2,
+            "stars": 4,
+            "review": "Instantly charmed - imagine a technically literate Zen and the Art of Motorcycle. There's a Pratchettian lightness and gravity to it (it's a lot like the best of The Science of Discworld, in fact - fiction and nonfiction, tragic comedy, grandeur and quotidian life).",
+            "highlight":"Instantly charmed"
+        },
+        {
+            "author": "Romanus",
+            "tag": 3,
+            "stars": 3,
+            "review": "Useful facts and new insights, struggle with story-writing",
+            "highlight":"Useful facts and new insights, struggle with story-writing."
+        }]
+}
+

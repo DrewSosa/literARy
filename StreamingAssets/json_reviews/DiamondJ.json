@@ -1,0 +1,25 @@
+
+{
+    "reviews" : [ {
+            "author": "Mal",
+            "tag": "DiamondJ",
+            "stars" : 5,
+            "review": "Diamond argues, convincingly, that the much greater availability of domesticable plants and large animals in Eurasia than in sub-Saharan Africa and the Americas. Furthermore, he explains that the east-west orientation of Eurasia from the Bering Strait to the Atlantic Ocean made it possible for the development of agriculture and animal husbandry to spread quickly to distant lands. By contrast, the north-south orientation of the Americas and sub-Saharan Africa—and the presence of barriers such as the Sahara Desert, the Panamanian Isthmus, and the deserts of northern Mexico and southwestern United States—impeded the spread of these (and, later, other) new technologies to the extremities of those continents. The advent of food production enabled the development of ever-larger settlements. This, in turn, spelled the emergence of labor specialization and eventually the growth of empires as well as the appearance and spread of communicable diseases contracted from domesticated animals. Those differences in historical development eventually led to the “guns, germs, and steel” that made Eurasian dominance possible—and dictated the huge differences in economic development between what today we call East and West.",
+            "highlight": "The only persuasive explanation for the wealth gap between the West and the rest."
+        },
+         {
+            "author": "Emily",
+            "tag": 5,
+            "stars": 1,
+            "review": "I started this book about five years ago for a class and never finished it. I am glad that I eventually did. That being said, it was a densely packed read so I' lm sure I only skimmed the surface, but it was still enjoyable.",
+            "highlight":"Oversimplifies history."
+        },
+        {
+            "author": "Juhri",
+            "tag": 3,
+            "stars": 3,
+            "review": "Some people say this is an academic porn book. Agreed. However, this book is still worth to read.",
+            "highlight":"Some people say this is an academic porn."
+        }]
+}
+
